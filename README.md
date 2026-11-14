@@ -4,7 +4,7 @@
 
 Me chamo Ana Luiza, tenho 20 anos e moro no Rio de Janeiro. Estou cursando Ciência da Computação, tenho grande interesse pelo universo da tecnologia e pelo desenvolvimento de software. Estou constantemente buscando expandir meus conhecimentos em programação, banco de dados, computação em nuvem e segurança da informação. Além da graduação, invisto em cursos e estudos independentes, incluindo formações da HarvardX, Cisco Networking Academy e outras plataformas de ensino. Também possuo conhecimento avançado em inglês, o que me permite acompanhar documentações técnicas, conteúdos internacionais e materiais de estudo da área de tecnologia. Utilizo o GitHub para compartilhar meus projetos, documentar meu aprendizado e acompanhar minha evolução como profissional de tecnologia.
 
-🚀 **'Linguagens e Tecnologias'**
+🚀 **Linguagens e Tecnologias**
 
 Atualmente estudando e desenvolvendo habilidades em:
 
@@ -22,8 +22,8 @@ Atualmente estudando e desenvolvendo habilidades em:
 <br/>
 <br/>
 
-🎯 **'Áreas de Interesse'**
-Desenvolvimento de Software
-Banco de Dados
-Cloud Computing
-Cybersecurity
+🎯 **Áreas de Interesse**
+-  Desenvolvimento de Software
+-  Banco de Dados
+-  Cloud Computing
+-  Cybersecurity
