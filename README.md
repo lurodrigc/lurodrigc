@@ -7,6 +7,7 @@ Me chamo Ana Luiza, tenho 20 anos e moro no Rio de Janeiro. Estou cursando Ciên
 🚀 **Linguagens e Tecnologias**
 
 Atualmente estudando e desenvolvendo habilidades em:
+
 <br/>
 <img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
